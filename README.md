@@ -29,7 +29,7 @@ A look inside the assets folder of this resource pack shows that it takes advant
 
 > The random characters placed after `§k` are always the same width as the original characters. For example, any random character cycled through where the letter "m" would be wide characters while any random character in the spot of an "i" would be narrow characters.
 
-By not supplying any characters after the `§k` formatting code at all, Minecraft effectively renders no characters at all. Combine that factor with there being only one line in the `splashes.txt` file, and Minecraft is effectively trapped in rendering nothing for the splash text in the main menu regardless of the game version you're on. No need to avoid the dreaded `missingno` text... yay!
+By not supplying any characters after the `§k` formatting code at all, Minecraft effectively renders no characters. Combine that factor with there being only one line in the `splashes.txt` file, and Minecraft is effectively trapped in rendering nothing for the splash text in the main menu regardless of the game version you're on. No need to avoid the dreaded `missingno` text or instances of dated humor... yay!
 
 (Until Mojang changes how formatting codes work—and it probably won't with a game this old and a feature this far cemented within Minecraft's history—this pack should work across all Minecraft versions that has `splashes.txt` support.)
 
