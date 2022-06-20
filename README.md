@@ -11,12 +11,7 @@ This is a solo project by me inspired by BlockyRick's past work.
 ## Why?
 Sometimes, the splash texts by Mojang just doesn't fulfill your sense of humor. And sometimes, you just want to see that damned yellow text gone. But lo and behold, Mojang has a failsafe for intentionally blank `splash.txt` files (which is what BlockyRick's original pack did) and simply loads the text `missingno` if the `splash.txt` file is empty. See below for a demonstration:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/UOfiO.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/UOfiO.png">
-</picture>
-
-https://i.imgur.com/UOfiO.png
+![image](https://i.imgur.com/UOfiO.png)
 
 (Source: https://imgur.com/UOfiO)
 
@@ -43,13 +38,7 @@ By not supplying any characters after the `§k` formatting code at all, Minecraf
 ### ...are the demonstrations?
 
 1.8.9:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/728977460737081454/988446944051478558/2022-06-20_09.42.40.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/728977460737081454/988446944051478558/2022-06-20_09.42.40.png">
-</picture>
+![image](https://media.discordapp.net/attachments/728977460737081454/988446944051478558/2022-06-20_09.42.40.png)
 
 1.18.2:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/887818760126345246/988447060724437002/2022-06-20_10.01.23.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/887818760126345246/988447060724437002/2022-06-20_10.01.23.png">
-</picture>
+![image](https://media.discordapp.net/attachments/887818760126345246/988447060724437002/2022-06-20_10.01.23.png)
