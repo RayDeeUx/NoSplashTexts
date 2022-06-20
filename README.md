@@ -41,4 +41,4 @@ By not supplying any characters after the `§k` formatting code at all, Minecraf
 ![image](https://media.discordapp.net/attachments/728977460737081454/988446944051478558/2022-06-20_09.42.40.png)
 
 1.18.2:
-![image](https://media.discordapp.net/attachments/887818760126345246/988447060724437002/2022-06-20_10.01.23.png)
+![image](https://media.discordapp.net/attachments/728977460737081454/988448695144026182/2022-06-20_10.21.41.png)
