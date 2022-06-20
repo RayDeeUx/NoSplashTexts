@@ -9,7 +9,7 @@ Original inspiration: https://www.planetminecraft.com/texture-pack/no-splash-tex
 This is a solo project by me inspired by BlockyRick's past work.
 
 ## Why?
-Sometimes, the splash texts by Mojang just doesn't fulfill your sense of humor. And sometimes, you just want to see that damned yellow text gone. But lo and behold, Mojang has a failsafe for intentionally blank `splash.txt` files (which is what BlockyRick's original pack did) and simply loads the text `missingno` if the `splash.txt` file is empty. See below for a demonstration:
+Sometimes, the splash texts by Mojang just won't fulfill your sense of humor. And sometimes, you just want to see that damned yellow text gone. But lo and behold, Mojang has a failsafe for intentionally blank `splash.txt` files (which is what BlockyRick's original pack did) and simply loads the text `missingno` if the `splash.txt` file is empty. See below for a demonstration:
 
 ![image](https://i.imgur.com/UOfiO.png)
 
