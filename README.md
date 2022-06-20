@@ -21,7 +21,7 @@ Sometimes, the splash texts by Mojang just won't fulfill your sense of humor. An
 
 Drop the `.zip` file into your resources packs folder, have it selected (as in, it should be on the right column in the resource pack menu), and **__reload your game__**.
 
-(Optional for those playing on 1.14 and higher: The Fabric-based mod named "No Resource Pack Warnings" by SpaceWalkerRS — https://github.com/SpaceWalkerRS/no-resource-pack-warnings/releases)
+(Optional for those playing on 1.14 and higher: the Fabric-based mod named "No Resource Pack Warnings" by SpaceWalkerRS — https://github.com/SpaceWalkerRS/no-resource-pack-warnings/releases)
 
 ### ...does this work?
 
